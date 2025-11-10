@@ -1,1 +1,1 @@
-# COPNCT
+This Repo contains the implementation of COPNCT, a prompt based continual learning model for predictive process monitoring on an online datastream affected by concept drift, prediction task drift, and activity label noise.
